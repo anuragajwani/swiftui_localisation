@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  SwiftUILocalisation
+
+  Created by Anurag Ajwani on 07/09/2020.
+  
+*/
+
+"hello_world" = "Hello, world!";
